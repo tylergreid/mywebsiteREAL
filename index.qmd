@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "About Tyler"
 about:
   id: me
   template: broadside
@@ -9,10 +9,16 @@ about:
 :::{#me}
 
 ## Goals
+My name is Tyler and I like plants. Tehe.
 
 ## Education
+I am from the south. 
+
+Yeehaw.
+
 
 ## Experience
+Buckwheat. 
 
 :::
 
