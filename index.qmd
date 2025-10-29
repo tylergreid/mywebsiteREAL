@@ -9,16 +9,13 @@ about:
 :::{#me}
 
 ## Goals
-My name is Tyler and I like plants. Tehe.
+My goal is to become a coder that is 10% as good as Faith. 
 
 ## Education
-I am from the south. 
-
-Yeehaw.
-
+I graduated from North Carolina State University with a degree in Biology in 2023.
 
 ## Experience
-Buckwheat. 
+I worked as a research technician for two years in a cotton genetics and breeding laboratory. My work included supporting breeding efforts, conducting field work such as planting and harvesting, and managing plant growth in controlled-environment settings.
 
 :::
 
